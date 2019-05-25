@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Handbooks on Dictum mortuum&#39;s handbooks</title>
+    <link>https://www.dictummortuum.com/handbooks/</link>
+    <description>Recent content in Handbooks on Dictum mortuum&#39;s handbooks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 May 2019 02:49:25 +0300</lastBuildDate>
+    
+	<atom:link href="https://www.dictummortuum.com/handbooks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wizard</title>
+      <link>https://www.dictummortuum.com/handbooks/wizard/</link>
+      <pubDate>Sun, 26 May 2019 02:49:25 +0300</pubDate>
+      
+      <guid>https://www.dictummortuum.com/handbooks/wizard/</guid>
+      <description>asdfasdf</description>
+    </item>
+    
+  </channel>
+</rss>
