@@ -22,9 +22,18 @@ miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
 nunc! Fragosis suae dextra geruntur functus vulgata.
 {{< /columns >}}
 
-{{< statblock >}}
-
-
+{{< statblock
+    name="Hello there beautiful"
+    type="Medium construct, unaligned"
+    armor="13 (natural armor)"
+    hp="33 (6d8 + 6)"
+    speed="30ft" 
+    str="14"
+    dex="11"
+    con="25"
+    int="10"
+    wis="13"
+    cha="1" >}}
 
 ## Tempora nisi nunc
 

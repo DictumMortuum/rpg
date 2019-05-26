@@ -36,7 +36,6 @@ body {
 h1,
 h2,
 h3,
-h4,
 h5 {
   font-weight: 400;
 }
@@ -226,8 +225,4 @@ aside nav,
   .book-toc nav {
     padding: $padding-16 * 2 $padding-16;
   }
-}
-
-body {
-  font-family: sans-serif;
 }

@@ -25,7 +25,7 @@ BookShowToC = true
 
 # (Optional, default docs) Specify section of content to render as menu
 # You can also set value to "*" to render all sections to menu
-BookSection = 'handbooks'
+BookSection = '*'
 
 # Set source repository location.
 # Used for 'Last Modified' and 'Edit this page' links.
@@ -40,4 +40,3 @@ BookEditPath = 'edit/master/docs/content'
 # - In git information
 # - In blog posts
 BookDateFormat = 'Jan 2, 2006'
-
