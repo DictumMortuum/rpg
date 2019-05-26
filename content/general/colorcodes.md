@@ -1,11 +1,15 @@
-# colorcoding
+---
+title: color codes
+---
+
+# color codes
 
 In the following guide I will be using the color coding that I introduced during the days of 3.5e in the wizards' of the coast optimization forum. Unfortunately that guide is now lost, because the forum is defunct, but a forum poster named Clockwerk66 has posted it [here](http://www.enworld.org/forum/showthread.php?471718-Handbook-to-Guide-Writing-(Dictum_Mortuum)). Normally, I prefer three colors and a fourth one that's there to denote the best choices.
 
-- <navy>**navy**</navy>: this is a no-brainer. I use this sparingly.
-- <blue>**blue**</blue>: this is a good choice. I use this more often.
-- **black**: this is ok. Most items fall into this category.
-- <red>**red**</red>: this is bad. I use this often.
+- {{< navy navy >}}: this is a no-brainer. I use this sparingly.
+- {{< blue blue >}}: this is a good choice. I use this more often.
+- {{< black black >}}: this is ok. Most items fall into this category.
+- {{< red red >}}: this is bad. I use this often.
 
 The character optimization community has picked up the color coding technique and it is now used in almost every optimization guide on the Internet, but every time I feel that people are not using it correctly.
 
