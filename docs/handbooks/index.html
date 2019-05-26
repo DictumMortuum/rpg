@@ -24,8 +24,32 @@
 
 <link rel="icon" href="/favicon.png" type="image/x-icon">
 
+  <link href='//fonts.googleapis.com/css?family=Noto+Sans:400,700,400italic,700italic'
+        rel='stylesheet' type='text/css'>
+  <link href='//fonts.googleapis.com/css?family=Libre+Baskerville:700'
+        rel='stylesheet' type='text/css'>
 
-<link rel="alternate" type="application/rss+xml" href="https://www.dictummortuum.com/handbooks/index.xml" title="Dictum mortuum's handbooks" />
+  <script type="module" src="/js/stat-block.js"></script>
+  <script type="module" src="/js/creature-heading.js"></script>
+  <script type="module" src="/js/top-stats.js"></script>
+  <script type="module" src="/js/abilities-block.js"></script>
+  <script type="module" src="/js/property-line.js"></script>
+  <script type="module" src="/js/property-block.js"></script>
+
+  <style>
+    body {
+      margin: 0;
+    }
+    stat-block {
+       
+      margin-left: 20px;
+      margin-top: 20px;
+    }
+  </style>
+
+
+
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/handbooks/index.xml" title="Dictum mortuum's handbooks" />
 <!--
 Made with Book Theme
 https://github.com/alex-shpak/hugo-book
@@ -41,7 +65,7 @@ https://github.com/alex-shpak/hugo-book
     <aside class="book-menu fixed">
       <nav role="navigation">
 <h2 class="book-brand">
-  <a href="https://www.dictummortuum.com">Dictum mortuum&#39;s handbooks</a>
+  <a href="http://localhost:1313/">Dictum mortuum&#39;s handbooks</a>
 </h2>
 
 
@@ -217,6 +241,6 @@ https://github.com/alex-shpak/hugo-book
   
   
   
-</body>
+<script data-no-instant>document.write('<script src="/livereload.js?port=1313&mindelay=10"></' + 'script>')</script></body>
 
 </html>

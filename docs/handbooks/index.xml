@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Handbooks on Dictum mortuum&#39;s handbooks</title>
-    <link>https://www.dictummortuum.com/handbooks/</link>
+    <link>http://localhost:1313/handbooks/</link>
     <description>Recent content in Handbooks on Dictum mortuum&#39;s handbooks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 May 2019 02:49:25 +0300</lastBuildDate>
     
-	<atom:link href="https://www.dictummortuum.com/handbooks/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/handbooks/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Wizard</title>
-      <link>https://www.dictummortuum.com/handbooks/wizard/</link>
+      <link>http://localhost:1313/handbooks/wizard/</link>
       <pubDate>Sun, 26 May 2019 02:49:25 +0300</pubDate>
       
-      <guid>https://www.dictummortuum.com/handbooks/wizard/</guid>
+      <guid>http://localhost:1313/handbooks/wizard/</guid>
       <description>asdfasdf</description>
     </item>
     

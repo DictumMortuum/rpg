@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dictum mortuum&#39;s handbooks</title>
-    <link>https://www.dictummortuum.com/handbooks/paladin/</link>
+    <link>http://localhost:1313/handbooks/paladin/</link>
     <description>Recent content on Dictum mortuum&#39;s handbooks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://www.dictummortuum.com/handbooks/paladin/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/handbooks/paladin/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
