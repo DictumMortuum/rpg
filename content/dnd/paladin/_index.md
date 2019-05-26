@@ -1,6 +1,12 @@
+---
+title: the paladin's handbook
+---
+
 # the paladin's handbook
 
 by Dimitris Raviolos
+
+# Introduction 
 
 ## why paladin?
 
@@ -33,3 +39,12 @@ The problem here lies in the simplicity of the alignment system. It uses two axe
 Thus, I feel that removing the mechanical implications from the paladin in this 5th edition (e.g. code of conduct) was the right thing to do, as the simplicity of the alignment system and the ambiguity of the code didn't mix well.
 
 If you want to play a paladin and your party is cool about it, then great. If you feel that your dungeon master or teammates are punishing you because of your class choice, this is not cool and you should have a talk about it. Remind them that, according to the rules, alignment is not meant to restrict your character and that it should not be taken far too seriously. You are playing a paladin for style after all, you are not 
+
+# credits
+
+Below is a list of resources that I used during the creation of this guide. They might contain opinions different than my own, but you could use them in order to get another point of view for your character.
+
+- [a guide to the dungeons and dragons 5th edition paladdin through the eyes of a 3rd edition player](http://www.giantitp.com/forums/showthread.php?373592-A-Guide-to-the-D-amp-D-5th-Edition-Paladin-through-the-eyes-of-a-3-5-Player) by T.G. Oskar
+- [good is not nice](http://www.giantitp.com/forums/showthread.php?375696-Good-is-Not-Nice-A-Paladin-s-Guide) by EvilAnagram
+- [dnd 5e - the paladin handbook](https://rpgbot.net/dnd5/characters/classes/paladin/) by RPG BOT
+- [my word is my sword](https://docs.google.com/document/d/1-xCZsRMsiQz_at-0-OOSRWorKlk9AScuBISuekNEzqc/edit#)
