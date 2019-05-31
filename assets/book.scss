@@ -181,6 +181,7 @@ ul.pagination {
 
 .colorcode {
   font-weight: bold;
+  text-transform: capitalize;
 
   .red {
     color: $red
@@ -193,6 +194,16 @@ ul.pagination {
   .navy {
     color: $navy
   }
+}
+
+.book {
+  text-transform: capitalize;
+  font-style: italic;
+}
+
+.feature {
+  text-transform: capitalize;
+  font-style: italic;
 }
 
 // Responsive styles
