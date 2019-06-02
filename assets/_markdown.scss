@@ -10,6 +10,10 @@ $block-border-radius: 0.15rem;
     line-height: 1.25;
   }
 
+  h1 {
+    border-bottom: 1px solid $red;
+  }
+
   // remove padding at the beginning of page
   > :first-child {
     margin-top: 0;
