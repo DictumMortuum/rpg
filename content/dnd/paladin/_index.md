@@ -317,6 +317,16 @@ It's important to remember that, in the 5th edition you can break up your move, 
 
 > If you take an action that includes more than one weapon attack, you can break up your movement even further by moving between those attacks. For example, a fighter who can make two attacks with the Extra Attack feature and who has a speed of 25 feet could move 10 feet, make an attack, move 15 feet, and then attack again.
 
+Also note that, like in 3.5 edition, there are a couple of attach maneuvers that can be used in lieu of an attack. One of these maneuvers is shove:
 
+> Using the Attack action, you can make a special melee attack to shove a creature, either to knock it prone or push it away from you. **If you're able to make multiple attacks with the Attack action, this attack replaces one of them**.
+
+Shove is basically a strength(athletics) check, contested by your opponent's strength(athletics) or dexterity(acrobatics). If you win the check, the target becomes prone, which is applies the following penalties:
+
+- A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.
+- The creature has disadvantage on attack rolls.
+- An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.
+
+Since with this class feature you can make two attacks per round, consider if you can first shove and then attack to gain advantage on the attack roll. This is especially useful if there are other melee characters in the party, because this way you'll be able to assist them, too.
 
 # feats
