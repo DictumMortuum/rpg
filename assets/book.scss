@@ -196,12 +196,7 @@ ul.pagination {
   }
 }
 
-.book {
-  text-transform: capitalize;
-  font-style: italic;
-}
-
-.feature {
+.book, .feature, .race, .spell {
   text-transform: capitalize;
   font-style: italic;
 }
