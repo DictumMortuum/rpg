@@ -329,4 +329,14 @@ Shove is basically a strength(athletics) check, contested by your opponent's str
 
 Since with this class feature you can make two attacks per round, consider if you can first shove and then attack to gain advantage on the attack roll. This is especially useful if there are other melee characters in the party, because this way you'll be able to assist them, too.
 
+## aura of protection
+
+At level 6, whenever you or a friendly creature within 10 feet of you must make a saving throw, the creature gains a bonus to the saving throw equal to your charisma modifier.
+
+Needless to say, this ability is powerful and it makes you an asset for the whole team. Level 6 is quite a good cutoff, too, because you get the {{< feature "extra attack" >}}, second level spells, increased proficiency and of course, {{< feature "divine smite" >}}.
+
+Do note that you need to be consious to use this, but the same isn't required for your teammates. So, should you need to help a fallen teammate, position yourself close to him.
+
+## aura of courage
+
 # feats
