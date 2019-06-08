@@ -337,6 +337,24 @@ Needless to say, this ability is powerful and it makes you an asset for the whol
 
 Do note that you need to be consious to use this, but the same isn't required for your teammates. So, should you need to help a fallen teammate, position yourself close to him.
 
+Buffing spells that are particularly useful as usually marked as duration: concentration. However, while a character is concentrating on a spell, they need to roll a saving throw every time they receive damage, otherwise the spell is lost. The DC equals to 10 or half the damage they take, whichever is higher. Considering that {{< feature "aura of protection" >}} boosts the saving throws of a friendly creature, this helps characters that cast buffing spells a lot and pretty much everyone has one of these, e.g. {{< spell hex >}}, {{< spell "hunter's mark" >}} or even {{< spell bless >}}.
+
 ## aura of courage
+
+At level 10, the paladin and his teammates cannot be frightened. Frightened is a condition that according to {{< book "player's handbook" >}}:
+
+> A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight. The creature can't willingly move closer to the source of its fear.
+
+Even if this won't come into play that often, the ability have a straight up immunity to a condition and in an aura to boot, is useful.
+
+## improved divine smite
+
+It's a bonus die of radiant damage whenever the paladin hits a target, regardless if {{< feature "divine smite" >}} was used or not.
+
+The point here is that it's usable more than once each round, assuming additional attacks from {{< feature "extra attack" >}} for instance. Compared to other similar abilities, this is much better, because, for instance the {{< feature "divine strike" >}} that some of the cleric domains give are usable only once per round.
+
+Remember to use this ability whenever there's an opportunity attack, {{< feature "extra attack" >}}, {{< feat "polearm master" >}} etc.
+
+ 
 
 # feats
