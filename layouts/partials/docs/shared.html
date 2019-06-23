@@ -14,7 +14,7 @@
 
 {{ define "hrefhack" }}
   {{ $attrEq := "$=" }}
-  {{ $attrVal := .RelPermalink }}
+ {{ $attrVal := .RelPermalink }}
   {{ if eq .RelPermalink "/" }}
     {{ $attrEq = "=" }}
     {{ $attrVal = .Permalink }}

@@ -179,26 +179,32 @@ ul.pagination {
   padding: $padding-16;
 }
 
+.red {
+  color: $red
+}
+
+.blue {
+  color: $blue
+}
+
+.navy {
+  color: $navy
+}
+
 .colorcode {
   font-weight: bold;
   text-transform: capitalize;
-
-  .red {
-    color: $red
-  }
-
-  .blue {
-    color: $blue
-  }
-
-  .navy {
-    color: $navy
-  }
 }
 
 .book, .feature, .race, .spell {
   text-transform: capitalize;
   font-style: italic;
+}
+
+aside nav {
+  a, a:visited {
+    color: black;
+  }
 }
 
 // Responsive styles
