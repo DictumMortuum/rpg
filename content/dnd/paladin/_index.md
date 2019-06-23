@@ -63,7 +63,7 @@ Another example - a paladin starting on level 16 would afford a full plate and w
 
 Finally, with the introducting of the items that don't boost the attributes, but they set them to a certain score, it's now possible to completely dump an attribute that would otherwise be dimmed as important.
 
-### <span class="blue">strength</span>
+### <blue>strength</blue>
 
 The paladin class already offers access to heavy armor, so you need to at least spend some points to make the strength requirement, if you want to use them. Strength is most likely to determine the attack and damage roll of your weapon, there are a lot of good melee options available to paladins, since they get proficiency with all weapons. Paladins also get heavy armor proficiency and most high level armor options have a minimum strength requirement.
 
@@ -71,11 +71,11 @@ The paladin class already offers access to heavy armor, so you need to at least 
 
 In this edition of dungeons and dragons boosts a lot of different options; you use it to determine your attack and damage rolls with certain weapons (ranged or finesse ones), initiative, armor class and dexterity saves, which occur quite often. So switching to dexterity for your primary fighting attribute would be an option open to the paladin, but, alas, {{< feature "divine smite" >}} doesn't work with ranged weapons.
 
-### <span class="blue">constitution</span>
+### <blue>constitution</blue>
 
 I would argue that no matter the character, this is the most important attribute. It will bump a paladdin's constitution checks, including some important saves versus petrification, death and poison as well as concentration checks.
 
-### <span class="red">intelligence</span>
+### <red>intelligence</red>
 
 This is the attribute that a paladin may safely dump, it is quite rare as a saving throws and there is little synergy with features and skills.
 
@@ -83,7 +83,7 @@ This is the attribute that a paladin may safely dump, it is quite rare as a savi
 
 It used to be that the paladin casted spells using the wisdom attribute. However, the 5th edition paladin uses charisma as a base attribute for their spells, which is important for reducing multiple attribute dependency. Now, paladins are also proficient in wisdom saving throws, which appears quite often. It's tempting to completely dump this attribute and it is possible, but note that there are a couple of useful skills that are boosted by wisdom, like insight and perception.
 
-### <span class="navy">charisma</span>
+### <navy>charisma</navy>
 
 A paladin has high charisma synergy via his class features. This determines the save DC of his spells, the number of uses of {{< feature "cleansing touch" >}} and {{< feature "diving sense" >}}, the power of {{< feature "aura of protection" >}} and finally, it boosts a lot of skills that are based on charisma, like intimidation or persuation. This is the main attribute of a paladin, so it's the highest priority.
 
@@ -111,7 +111,7 @@ Another thing is that dwarves don't get reduced speed for wearing heavy armor, e
 - {{< blue "mountain dwarf" PHB >}}: One of the rare races that provides a +2 bonus to two attributes, boosting both strength and constitution. Unfortunately aside from sheer numbers, it doesn't offer anything else, as {{< feature "dwarven armor training" >}} is completely redundant for a paladin.
 - {{< red "gray dwarves (durgar)" SCAG >}}: Even though they get a good package with bonuses to strength, resistances to illusions and charm via {{< feature "duergar resilience" >}} and magic, {{< feature "sunlight sensitivity" >}} is too harsh.
 
-### <span class="red">elf</span>
+### <red>elf</red>
 
 Unfortunately, there's not much that the elf race offers for a paladin build. They do have proficiency in the perception skill via the {{< feature "keen senses" >}} feature, they are resistant to sleep magic and against being charmed via {{< feature "fey ancestry" >}} and finally they are able to benefit from a long rest after only 4 hours of sleep, because of their {{< feature trance >}} ability, but that's basically it.
 
@@ -121,7 +121,7 @@ A paladin would probably benefit from the dexterity bonus if the campaign starts
 - {{< red "wood elf" PHB >}}: This subrace is a bit similar to dwarves, in the sense that due to the increased walking speed, the heavy armor proficiency will be offset. However, no other feature that the race provides would be useful to a paladin build.
 - {{< red "dark elf (drow)" PHB >}}: Drow do have some charisma synergy, as they boost charisma, albeit at just +1, and have some spells that use charisma as the spellcating ability via their {{< feature "drow magic" >}} ability. However, {{< feature "sunlight sensitivity" >}} is really harsh and even without it there are far better choices for a paladin than these.
 
-### <span class="red">halfling</span>
+### <red>halfling</red>
 
 Features-wise, halflings are something between an elf and a dwarf. On the one side they are clearly dexterity based, but they have some good defensive features, like {{< feature lucky >}}, which is incredibly potent.
 
@@ -138,7 +138,7 @@ By being a human you can do 14/10/14/11/14/16 or 14/14/14/11/14/14, which is pro
 
 However, besides that, it doesn't offer all that much; there are no other special abilities.
 
-### <span class="navy">variant human</span>
+### <navy>variant human</navy>
 
 The variant human is an option that's probably the best race in the game, second to none.
 
@@ -148,7 +148,7 @@ Additionally, {{< feature "variant human" >}} offers a free skill and two abilit
 
 ## uncommon
 
-### <span class="blue">dragonborn</span>
+### <blue>dragonborn</blue>
 
 {{< race dragonborn >}}s were probably created with the intent of becoming paladins. They have a dragon theme and they also are associated with Bahamut, the lawful good god of dragons.
 
@@ -160,7 +160,7 @@ They receive bonuses to strength and charisma, which is very good. They also hav
 
 Another feat available to {{< race dragonborn >}}s is {{< feature "dragon hide" XGtE >}}, which unfortunately is mediocre.
 
-### <span class="navy">half-elf</span>
+### <navy>half-elf</navy>
 
 Arguably second only to the {{< race "variant human" >}}, the {{< race half-elf >}} is a race that is able to provide ability score improvements to all attributes necessary to a paladin (+1 strength/+1 constitution/+2 charisma).
 
@@ -171,7 +171,7 @@ They have some of the abilities that the elves have, like {{< feature darkvision
 - {{< black wood SCAG >}}: The most useful ability from the list is most certainly {{< feature "fleet of foot" >}}, which will help to offset the heavy armor penalty to a paladin build, pretty much like dwarves.
 - {{< blue "high/moon" SCAG >}}: Marked blue only for the ability to get the {{< feature cantrip >}} feature. There are quite a few utility options here that make the extra two skills obsolete; for instance, {{< spell prestidigitation >}} is a very useful cantrip. There are also {{< spell "booming blade" SCAG >}} and {{< feature "green fire blade" SCAG >}}, but these do not work with the extra attacks that the paladin class gets.
 
-### <span class="blue">half-orc</span>
+### <blue>half-orc</blue>
 
 {{< race half-orc>}}s are a good choice for a paladin that wants to focus more on the martial side of the class; they get ability score improvements in strength and constitution, a free skill and darkvision, but they are interesting because of the other two racial abilities that they have: {{< feature "relentless endurance" >}} and {{< feature "savage attacks" >}}.
 
@@ -226,7 +226,7 @@ Speaking of backgrounds, there's a certain rule on page 125 of {{< book "player'
 
 You can use this rule to your advantage when picking up a background. Most of the backgrounds offer a standard set of skills, so if you pick a background which offers two skills that you've already picked from the paladin list, then you are free to pick any two other skill proficiencies.
 
-### <span class="navy">athletics</span>
+### <navy>athletics</navy>
 
 One of the most useful skills in the paladin arsenal, the athletics skill will prove to be useful when you attempt to climb, swim, jump, force a lock open, or generally do something that requires a lot of strength. In addition, strength will enable you to use the grapple and shove actions, which are both very useful for battlefield control, especially during the early levels. Finally, this is important even if you are on the defensive, as these maneuvers are resisted either by dexterity(acrobatics) or by strength(athletics).
 
@@ -238,11 +238,11 @@ Useful skill for trying to determine the true intentions of someone. Unfortunate
 
 In the 3.5 edition this used to be an important asset for the classes that had charisma synergy. Unfortunately, now you cannot use it to demoralize your opponents - it provides only non-mechanical functions that can be used outside the battle mostly. Still, this will give your paladin a lot of style points, especially for members of certain oaths.0
 
-### <span class="red">medicine</span>
+### <red>medicine</red>
 
 You can use it to try and stabilize a dying companion or diagnose an illness. This is situationally useful and the fact that you can use spells or {{< feature "lay on hands" >}} to stabilize someone that needs medical attention makes this not the first priority for a paladin.
 
-### <span class="blue">persuation</span>
+### <blue>persuation</blue>
 
 Like intimidation, it's no longer useful in battle skill, however it will provide your character with a lot of style points; it's good to have an aptitude with the activities that people expect a paladin to be proficient with. I consider this better than intimidation, because you can cover most of the things you can do with that by using persuation.
 
@@ -252,11 +252,11 @@ This is the only knowledge skill on the list. You are probably not going to have
 
 Other skills that you should be targeting, either provided by your race, background, or using the trick discussed above are:
 
-### <span class="navy">perception</span>
+### <navy>perception</navy>
 
 This is probably the most important skill in the game, just because no matter what class you are, your dungeon master will call for a perception check sooner or later.
 
-## <span class="red">divine sense</span>
+## <red>divine sense</red>
 
 Unfortunately, even though the starting paladin class feature fits the theme, it's hard for someone to find a use for it. I think that the creators wanted to have something similar to the 3.5 edition {{< feature "detect evil" >}}, to help the paladin select his smite targets more accurately, however, {{< feature "divine smite" >}} is already an awesome class feature that applies to everyone, it's just more potent versus undead and fiends.
 
@@ -280,7 +280,7 @@ So, since {{< feature "divine sense" >}} lasts until the end of your next turn a
 - It's useful in crowded situations. For instance, tracking down an enemy that you know is undead or a fiend in an open battlefield.
 - Useful when enemies are hiding in plain sight. Maybe all those dead bodies are actually zombies waiting for you to get closer.
 
-## <span class="blue">lay on hands</span>
+## <blue>lay on hands</blue>
 
 Compared to {{< feature "divine sense" >}}, {{< feature "lay on hands" >}} is a much better level 1 paladin class feature. Paladins receive a pool of healing equal to their paladin level x 5, which is quite a good amount and they can use it to heal other creatures. In previous editions of dungeons and dragons it used to be that charisma played a role in the amount of healing that the paladin would be able to do with {{< feature "lay on hands" >}}, however, this has changed with the 5th edition.
 
@@ -313,7 +313,7 @@ Finally this has no effect on undead and constructs.
 
 - {{< black protection >}}: Paladins do have a lot of class features that are in the form of an aura, hence there will be regularly allies within at least 10ft of him. {{< feature protection >}} is a good choice if you don't have anything to use your reaction for; imposing disadvantage on attack rolls is going to stay relevant for lots of levels. Do note that opportunity attacks also use the reaction. Finally, to use this feature a paladin must be carrying a shield.
 
-## <span class="navy">divine smite</span>
+## <navy>divine smite</navy>
 
 People may pick this class because it fits their idea of a knight in shinning armor, however, mechanically, {{< feature "divine smite" >}} is what this class is all about.
 
@@ -345,7 +345,7 @@ All the references to disease I could find were:
 - Under the description of the spell {{< spell contagion >}}, there are listed: blinding sicklness, filth fever, flest rot, mindfire and seizure. Paladins are completely immune to this spell, as it's mentioned in the description that effects that prevent diseases apply specifically to it, as the diseases are considered natural.
 - Under the description of the spell {{< spell harm >}}. Damage is dealt normally to a paladin, however, the side effect that reduces the hit point maximum of the target is considered a disease and thus paladins are immune to it.
 
-## <span class="blue">extra attack</span>
+## <blue>extra attack</blue>
 
 Starting at level 5, this ability will allow the paladin to attack twice when using the attack action.
 
@@ -365,7 +365,7 @@ Shove is basically a strength(athletics) check, contested by your opponent's str
 
 Since with this class feature you can make two attacks per round, consider if you can first shove and then attack to gain advantage on the attack roll. This is especially useful if there are other melee characters in the party, because this way you'll be able to assist them, too.
 
-## <span class="blue">aura of protection</span>
+## <blue>aura of protection</blue>
 
 At level 6, whenever you or a friendly creature within 10 feet of you must make a saving throw, the creature gains a bonus to the saving throw equal to your charisma modifier.
 
@@ -383,7 +383,7 @@ At level 10, the paladin and his teammates cannot be frightened. Frightened is a
 
 Even if this won't come into play that often, the ability have a straight up immunity to a condition and in an aura to boot, is useful.
 
-## <span class="blue">improved divine smite</span>
+## <blue>improved divine smite</blue>
 
 It's a bonus die of radiant damage whenever the paladin hits a target, regardless if {{< feature "divine smite" >}} was used or not.
 
@@ -391,7 +391,7 @@ The point here is that it's usable more than once each round, assuming additiona
 
 Remember to use this ability whenever there's an opportunity attack, {{< feature "extra attack" >}}, {{< feat "polearm master" >}} etc.
 
-## <span class="blue">cleansing touch</span>
+## <blue>cleansing touch</blue>
 
 > Beginning at 14th level, you can use your action to end one spell on yourself or on one willing creature that you touch
 
@@ -404,3 +404,21 @@ A paladin may use this a number of times per day equal to his charisma modifier,
 Increases the range of {{< feature "aura of protection" >}} and {{< feature "aura of courage" >}} to 30 feet, which is enough for all the paladin's allies to receive the auras' benefit.
 
 # feats
+
+# sacred oaths
+
+## oath of devotion
+
+### oath spells
+
+### channel divinity
+
+#### <blue>sacred weapon</blue>
+
+Adds the charisma modifier to attack rolls for a minute. Useful ability, especially for the lower levels, where dealing damage consistently is more difficult. Do note that it seems that you still get the normal ability modifier bonuses (strength or dexterity) with your weapon and on top of that you get the charisma modifier bonus, at least I couldn't find anything against this; compare the wording to that of {{< spell shillelagh >}} which explicitly mentions that you use the spellcasting ability modifier instead of strength for the weapon.
+
+Additionally the weapon becomes magical for the duration, useful for overcoming damage resistance and it also sheds light.
+
+#### turn the unholy
+
+
