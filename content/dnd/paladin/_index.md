@@ -409,16 +409,49 @@ Increases the range of {{< feature "aura of protection" >}} and {{< feature "aur
 
 ## oath of devotion
 
-### oath spells
+### oath of devotion spells
 
-### channel divinity
-
-#### <blue>sacred weapon</blue>
+### <blue>channel divinity: sacred weapon</blue>
 
 Adds the charisma modifier to attack rolls for a minute. Useful ability, especially for the lower levels, where dealing damage consistently is more difficult. Do note that it seems that you still get the normal ability modifier bonuses (strength or dexterity) with your weapon and on top of that you get the charisma modifier bonus, at least I couldn't find anything against this; compare the wording to that of {{< spell shillelagh >}} which explicitly mentions that you use the spellcasting ability modifier instead of strength for the weapon.
 
 Additionally the weapon becomes magical for the duration, useful for overcoming damage resistance and it also sheds light.
 
-#### turn the unholy
+### channel divinity: turn the unholy
 
+Traditionally a paladin is able to turn undead and this ability does exactly that, but it has the added benefit of being able to turn fiends, too.
+
+### aura of devotion
+
+### purity of spirit
+
+### holy nimbus
+
+## oath of the ancients
+
+### oath of the ancients spells
+
+### channel divinity: nature's wrath
+
+### channel divinity: turn the faithless
+
+### aura if warding
+
+### undying sentinel
+
+### elder champion
+
+## oath of vengeance
+
+### oath of vengeance spells
+
+### channel divinity: abjure enemy
+
+### channel divinity: vow of enmity
+
+### relentless avenger
+
+### soul of vengeance
+
+### avenging angel
 
