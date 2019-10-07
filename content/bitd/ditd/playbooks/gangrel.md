@@ -1,6 +1,6 @@
 # gangrel
 
-Loners and wanderers comfortable away from the city, the bestial Outlanders avoid getting embroiled in Kindred politics
+Loners and wanderers comfortable away from the city, the bestial outlanders avoid getting embroiled in kindred politics
 
 ## attributes
 
@@ -15,9 +15,9 @@ Loners and wanderers comfortable away from the city, the bestial Outlanders avoi
 
 ## haven
 
-- Dank cave
-- Condemned building
-- Dilapidated shed
+- dank cave
+- condemned building
+- dilapidated shed
 
 ## mortal background
 
@@ -31,32 +31,32 @@ Loners and wanderers comfortable away from the city, the bestial Outlanders avoi
 
 ## nature (and xp trigger)
 
-- Loner (you accomplish some task by yourself which still benefits the group in some way)
-- Curmudgeon (you accurately predict something specific and negative that another person does)
-- Enigma (someone is baffled or perplexed by one of your actions that turns out to be a fruitful endeavor)
-- Rogue (your self-centered disposition leads you to profit)
-- Survivor (you survive a threatening situation through tenacity)
+- loner (you accomplish some task by yourself which still benefits the group in some way)
+- curmudgeon (you accurately predict something specific and negative that another person does)
+- enigma (someone is baffled or perplexed by one of your actions that turns out to be a fruitful endeavor)
+- rogue (your self-centered disposition leads you to profit)
+- survivor (you survive a threatening situation through tenacity)
 
 ## disciplines
 
-- animalism, Feral Whispers (B): Take 1 Hunger to communicate with animals
-- animalism, Beckoning (I): Take 2 Hunger to summon one or more animals to you
-- animalism, Subsume the Spirit (A): Take 2 Hunger to inhabit and take full control of an animal’s body
-- fortitude, Endurance (B): You have special armor to resist physical harm, including aggravated harm
-- fortitude, Resilience (I): You may always ignore the effects of checked harm boxes
-- fortitude, Aegis (A): Take 1 Hunger to resist any physical harm
-- protean, Marks of the Wild (B): Take 1 Hunger to see in the dark and have increased effect in hand to hand combat for the scene
-- protean, Shadow of the Beast (I): Take 2 Hunger to change into wolf or bat form or meld with the earth
-- protean, Mist Form (A): Take 2 Hunger to transform into mist
+- animalism, feral whispers (b): take 1 hunger to communicate with animals
+- animalism, beckoning (i): take 2 hunger to summon one or more animals to you
+- animalism, subsume the spirit (a): take 2 hunger to inhabit and take full control of an animal’s body
+- fortitude, endurance (b): you have special armor to resist physical harm, including aggravated harm
+- fortitude, resilience (i): you may always ignore the effects of checked harm boxes
+- fortitude, aegis (a): take 1 hunger to resist any physical harm
+- protean, marks of the wild (b): take 1 hunger to see in the dark and have increased effect in hand to hand combat for the scene
+- protean, shadow of the beast (i): take 2 hunger to change into wolf or bat form or meld with the earth
+- protean, mist form (a): take 2 hunger to transform into mist
 
 ## xp
 
-- Every time you roll a desperate action, mark xp in that action’s attribute
+- every time you roll a desperate action, mark xp in that action’s attribute
 
-At the end of each session, mark xp in your playbook or an attribute for each item below:
+at the end of each session, mark xp in your playbook or an attribute for each item below:
 
-- You played in the session
-- You addressed a challenge with tracking or violence
-- You struggle with fallout from your bestial instincts or your animal nature
-- You made efforts to hold on to your humanity
-- You met the XP trigger for your Nature
+- you played in the session
+- you addressed a challenge with tracking or violence
+- you struggle with fallout from your bestial instincts or your animal nature
+- you made efforts to hold on to your humanity
+- you met the xp trigger for your nature

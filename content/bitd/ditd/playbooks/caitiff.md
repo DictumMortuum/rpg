@@ -1,6 +1,6 @@
 # caitiff
 
-Clanless outcasts, the Trash are treated poorly by other Kindred but are able to operate outside of the clans’ hard restrictions
+Clanless outcasts, the trash are treated poorly by other kindred but are able to operate outside of the clans’ hard restrictions
 
 ## attributes
 
@@ -36,7 +36,7 @@ Clanless outcasts, the Trash are treated poorly by other Kindred but are able to
 
 ## disciplines
 
-- personal masquerade: you have successfully convinced other Kindred that you are a member of one of the clans, and can operate as such in Kindred society
+- personal masquerade: you have successfully convinced other kindred that you are a member of one of the clans, and can operate as such in kindred society
 - discipline student: you are adept at learning disciplines, and have increased effect when rolling on long-term project clocks top learn a discipline
 - discipline savant: you have a knack for teaching disciplines to yourself, and can do so without a long-term project to find a teacher
 - discipline creation: you may invent a new discipline, which takes a 12-segment project clock to learn the basic power (this still counts as an out-of-clan discipline)
@@ -44,12 +44,12 @@ Clanless outcasts, the Trash are treated poorly by other Kindred but are able to
 
 ## xp
 
-- Every time you roll a desperate action, mark xp in that action’s attribute
+- every time you roll a desperate action, mark xp in that action’s attribute
 
-At the end of each session, mark xp in your playbook or an attribute for each item below:
+at the end of each session, mark xp in your playbook or an attribute for each item below:
 
-- You played in the session
-- You addressed a challenge with an unconventional or novel approach
-- You struggled with fallout your low standing and bad reputation among Kindred
-- You made efforts to hold on to your humanity
-- You met the XP trigger for your Nature
+- you played in the session
+- you addressed a challenge with an unconventional or novel approach
+- you struggled with fallout your low standing and bad reputation among kindred
+- you made efforts to hold on to your humanity
+- you met the xp trigger for your nature

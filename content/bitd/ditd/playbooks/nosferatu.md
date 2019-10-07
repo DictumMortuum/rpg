@@ -1,6 +1,6 @@
 # nosferatu
 
-Hideous, disfigured monsters, the Sewer Rats lurk in dark places and collect dark secrets
+Hideous, disfigured monsters, the sewer rats lurk in dark places and collect dark secrets
 
 ## attributes
 
@@ -15,9 +15,9 @@ Hideous, disfigured monsters, the Sewer Rats lurk in dark places and collect dar
 
 ## haven
 
-- Sewer warren
-- Spire of a condemned church
-- Abandoned tenement
+- sewer warren
+- spire of a condemned church
+- abandoned tenement
 
 ## mortal background
 
@@ -31,33 +31,33 @@ Hideous, disfigured monsters, the Sewer Rats lurk in dark places and collect dar
 
 ## nature (and xp trigger)
 
-- Conniver (you trick someone into doing something for you or convince someone to help you against their best interests)
-- Caregiver (you protect or nurture someone else)
-- Deviant (you flout social mores without retribution)
-- Loner (you accomplish some task by yourself which still benefits the group in some way)
-- Survivor (you survive a threatening situation through tenacity)
+- conniver (you trick someone into doing something for you or convince someone to help you against their best interests)
+- caregiver (you protect or nurture someone else)
+- deviant (you flout social mores without retribution)
+- loner (you accomplish some task by yourself which still benefits the group in some way)
+- survivor (you survive a threatening situation through tenacity)
 
 ## disciplines
 
-- animalism, Feral Whispers (B): Take 1 Hunger to communicate with animals
-- animalism, Beckoning (I): Take 2 Hunger to summon one or more animals to you
-- animalism, Subsume the Spirit (A): Take 2 Hunger to inhabit and take full control of an animal’s body
-- obfuscate, Unseen Presence (B): Push yourself for increased effect and +1d for an action involving stealth or hiding
-- obfuscate, Mask of 1,000 Faces (I): Take 2 Hunger to temporarily assume a supernatural disguise
-- obfuscate, Soul Mask (A): You have special armor to resist the effects of supernatural perception abilities such as Auspex or Dementation
-- potence, prowess (B): push yourself for increased effect and +1d for an action involving physical strength
-- potence, vigor (I): you always have +1d for all actions involving physical strength (this stacks with the effect of prowess)
-- potence, might (A): push yourself to perform a normally impossible, supernatural feat of strength
+- animalism, feral whispers (b): take 1 hunger to communicate with animals
+- animalism, beckoning (i): take 2 hunger to summon one or more animals to you
+- animalism, subsume the spirit (a): take 2 hunger to inhabit and take full control of an animal’s body
+- obfuscate, unseen presence (b): push yourself for increased effect and +1d for an action involving stealth or hiding
+- obfuscate, mask of 1,000 faces (i): take 2 hunger to temporarily assume a supernatural disguise
+- obfuscate, soul mask (a): you have special armor to resist the effects of supernatural perception abilities such as auspex or dementation
+- potence, prowess (b): push yourself for increased effect and +1d for an action involving physical strength
+- potence, vigor (i): you always have +1d for all actions involving physical strength (this stacks with the effect of prowess)
+- potence, might (a): push yourself to perform a normally impossible, supernatural feat of strength
 
 ## xp
 
-- Every time you roll a desperate action, mark xp in that action’s attribute
+- every time you roll a desperate action, mark xp in that action’s attribute
 
-At the end of each session, mark xp in your playbook or an attribute for each item below:
+at the end of each session, mark xp in your playbook or an attribute for each item below:
 
-- You played in the session
-- You addressed a challenge with stealth or information
-- You struggle with fallout from your hideous
+- you played in the session
+- you addressed a challenge with stealth or information
+- you struggle with fallout from your hideous
 appearance
-- You made efforts to hold on to your humanity
-- You met the XP trigger for your Nature
+- you made efforts to hold on to your humanity
+- you met the xp trigger for your nature
