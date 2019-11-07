@@ -454,4 +454,3 @@ Traditionally a paladin is able to turn undead and this ability does exactly tha
 ### soul of vengeance
 
 ### avenging angel
-

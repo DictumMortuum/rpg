@@ -2,6 +2,7 @@ baseURL = "https://dictummortuum.com"
 languageCode = "en-us"
 title = "Dictum mortuum's handbooks"
 publishdir = "docs"
+theme = "book"
 
 # (Optional) Set this to true if you use capital letters in file names
 disablePathToLower = true
@@ -14,7 +15,13 @@ enableGitInfo = true
 # You can remove related files with config below
 disableKinds = ['taxonomy', 'taxonomyTerm']
 
+googleAnalytics = "UA-140613006-2"
+
 [params]
+BookSearch = false
+
+BookToC = 2
+
 # (Optional, default true) Show or hide table of contents globally
 # You can also specify this parameter per page in front matter
 BookShowToC = true

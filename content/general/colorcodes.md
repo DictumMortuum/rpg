@@ -1,5 +1,6 @@
 ---
 title: color codes
+bookToc: false
 ---
 
 # color codes

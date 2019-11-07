@@ -1,6 +1,7 @@
 ---
-title: Introduction
-type: handbooks
+title: A random title
+weight: 1
+type: dnd
 ---
 
 # Acerbo datus maxime

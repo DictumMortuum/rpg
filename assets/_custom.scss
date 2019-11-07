@@ -1,0 +1,44 @@
+$black: #000;
+$red: #ff4c4c;
+$blue: #3361e5;
+$navy: #bb71b9;
+
+red {
+  color: $red
+}
+
+blue {
+  color: $blue
+}
+
+navy {
+  color: $navy
+}
+
+.colorcode {
+  font-weight: bold;
+  text-transform: capitalize;
+}
+
+.book, .feature, .race, .spell {
+  text-transform: capitalize;
+  font-style: italic;
+}
+
+aside nav {
+  a, a:visited {
+    color: black;
+  }
+}
+
+html {
+  overflow-y: scroll;
+}
+
+h1 {
+  border-bottom: 1px solid $red;
+}
+
+h1, h2, h3, h4, h5 {
+  text-transform: capitalize;
+}
