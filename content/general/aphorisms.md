@@ -4,6 +4,8 @@ title: rpg aphorisms
 
 # rpg aphorisms
 
+by Dimitris Raviolos
+
 # Index
 
 - [Advice for dungeon masters](#for-dungeon-masters)

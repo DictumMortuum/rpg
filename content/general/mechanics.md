@@ -4,6 +4,8 @@ title: rpg mechanics
 
 # RPG mechanics
 
+by Dimitris Raviolos
+
 # Index
 
 - [buy-in](#buy-in)
