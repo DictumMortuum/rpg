@@ -361,12 +361,19 @@ by Dimitris Raviolos
 [Vladimir Propp](https://en.wikipedia.org/wiki/Vladimir_Propp)
 
 > It's also noted on the [mini-guide to structuralism](http://people.ds.cam.ac.uk/blf10/Links/structuralism.html) elsewhere on this server that Vladimir Propp's Morphology of the Folktale (1928) identified seven archetypal characters, which he called **actants**. These are:
+
 > - the villain
+
 > - the provider
+
 > - the helper
+
 > - the princess and her father
+
 > - the dispatcher
+
 > - the hero
+
 > - the false hero
 
 # Definitions
