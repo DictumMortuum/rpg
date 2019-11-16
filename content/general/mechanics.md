@@ -2,13 +2,13 @@
 title: rpg mechanics
 ---
 
-# RPG mechanics
-
-or, the best mechanics that blend roleplaying and system components.
+# rpg mechanics
 
 by Dimitris Raviolos
 
-# Index
+# index
+
+or, the best mechanics that blend roleplaying and system components.
 
 - [buy-in](#buy-in)
 - [devil's bargain](#devil-s-bargain)

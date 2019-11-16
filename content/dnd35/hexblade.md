@@ -1,12 +1,12 @@
 ---
-title: hexblade
+title: the hexblade's handbook
 ---
 
 # the hexblade's handbook
 
 by Dimitris Raviolos
 
-# Introduction
+# introduction
 
 ## why hexblade?
 
@@ -76,16 +76,16 @@ And especially the Strongheart FRCS type. Huge save, skill and weapon bonuses. B
 
 A very nice race. Bonus to charisma which is hard to come by without hits along with darkvision, keen senses, daylight. Outsider type is an asset since it can be used with alter self. Their level adjustment can be waved if you choose to be a lesser aasimar PGtF.
 
-## <blue>Dragonborn Lesser Aasimar</blue>
+## <blue>dragonborn lesser aasimar</blue>
 
 Great racial attribute modifiers. With dragonborn you keep the most important part of the lesser aasimar race (their bonuses to charisma and wisdom) and get to choose an awesome draconic aspect.
 
 
-## <blue>Neraphim</blue>
+## <blue>neraphim</blue>
 
 Neraphims are LA 0 outsiders. They do have some additional minor benefits including natural armor and racial weapon proficiencies.
 
-## Dragonborn Desert Half-Orc
+## dragonborn desert half-orc
 
 You can find desert half-orcs in unearthed arcana. I rarely use half-orcs, but these guys get +2 con -2 int, which is awesome when combined with the dragonborn pseudo-template, which will provide you with -2 dex +4 con -2 int, great stat mods if you absolutely need the constitution boost. Obviously worse than dragonborn lesser aasimars, but they can get the job done.
 
@@ -95,41 +95,41 @@ Only if you can buy off the level adjustment. The main point is that this templa
 
 # class features
 
-## <blue>Hexblade's Curse</blue>
+## <blue>hexblade's curse</blue>
 
 This is the signature ability of the hexblade. Available at first level. It has 60ft range, scalling DC based on your hexblade class level, long duration, affects all creature types and is a free action. It requires a will save and lowers attack, saves, ability checks, skill checks and weapon damage rolls. It will basically hurt warriors (two weapon fighters, power attack chargers) and precision based builds (sneak attackers, mobility skirmishers) most. It doesn't impede spellcasting except from touch attacks. Try to target low will-save opponents. They usually fall into the categories that have serious problems when hexed. It is a free action and you have unlimited (well according to the dungeon master's approval) free actions at your disposal. However the errata states you can hex only once per round. That doesn't make it a swift action however. Spell resistance doesn't apply to your curse. It is a supernatural ability though and doesn't function in an antimagic field and similar places. Don't hex your targets immediately. Remember that curse is a free action and you can perform one whenever you want in your turn. Try to debuff your target first. There are many ways to reduce a target's saves, which include: ability damage, ability drain, energy drain, sickened, shaken, frightened, panicked. They can be achieved through spells, feats, items and class abilities. It can be removed with any effect that dispel or remove a curse (e.g. remove curse spell). If a target resists your curse you can't target him again for 24 hours with it.
 
-## <blue>Arcane Resistance</blue>
+## <blue>arcane resistance</blue>
 
 Awesome ability. Essentially gives you divine grace for spells and spell-like abilities. Given your two low saves, it is very much needed.
 
-## <blue>Mettle</blue>
+## <blue>mettle</blue>
 
 A form of evasion for fortitude and will saves. It has synergy with arcane resistance against spells. You can use it with a ring of evasion to be able to negate any effect on a successful save instead of partial effect.
 
-## <navy>Familiar</navy>
+## <navy>familiar</navy>
 
 Hexblade familiars are powerful. The main reasons to this is because familiars have one half of their masters' hit point totals. Hexblades have a d10 hit die which result to familiars with more hit points than any wizard or sorcerer's. Familiars use their master's base attack bonus. Hexblades have a good base attack so their familiars can be skilled warriors. Familiars provide benefits to the master.
 
-## Bonus Feats
+## bonus feats
 
 Hexblades gain a selection of bonus feats from a very tight list. I would choose combat casting, spell penetration and one school of greater spell focus (probably enchantment). These feats are welcome for the feat-starved hexblade, even if the benefit is minor.
 
-## Aura of Unluck
+## aura of unluck
 
 This ability gives you a 20% miss chance against melee and ranged attacks. It comes into play very late, when spells are more powerful than just attacks. However this aura gives you a -20% to any damage you will take from weapons. It can be activated also as a free action and lasts 3+charisma modifier rounds, so you can full attack, hex and activate aura all in your first turn.
 
 # alternative class features
 
-## Skilled City Dweller
+## skilled city dweller
 
 If you have the skill points to spend, in the cityscape web enhancement you can find this alternative class feature that lets you swap your ride skill for tumble. Tumble is a lot more useful than ride, especially for a low armored frontliner with no shield proficiency.
 
-## <navy>Dark Companion</navy>
+## <navy>dark companion</navy>
 
 An alternative to familiars from <book>player's handbook II</book>, this moving hex gives a -2 penalty of saves and AC to any adjacent opponent without a save. It moves on its own and can't be destroyed. Moves on your command with movement equal to your own. Very nice to use before you hex someone. Less AC means more power attack damage and less saves mean that you'll be able to hex, demoralize or debuff a target with a spell a lot easier. Last but not least, you can regain a familiar with the obtain familiar feat.
 
-## <red>Drakken Familiar</red>
+## <red>drakken familiar</red>
 
 Gain a familiar that doesn't deliver touch spells but has a breath weapon. This is bad because if you pick it you won't be able to take the awesome dark companion alternative class feature. 
 
@@ -149,161 +149,160 @@ This is an online article, which you can find here.
 
 Prestidigitation is an awesome spell, but hexblades have to pick it as a 1st level spell known, which is kinda bad. This ability gives you a chance to acquire it, at no cost. It's not game-breaking, but it'll give you with loads of flavor, plus it's awesome: you can even cast it without using verbal components, later you get it as a spell-like ability and eventually you get to cast it at will.
 
-# φeats
+# feats
 
-## General
+## general
 
-### Ability Focus
+### ability focus
 
 If your charisma isn't high enough, this is a solid way to increase your curse's difficulty class.
 
-### Goad
+### goad
 
 If you have the role of the warrior in your party, take this to protect your teammates. It is a 1/2 + class level + charisma modifier will save. Because hexblades are more fragile than other warriors have someone ready to heal you though. Share pain/shield other effects can help.
 
-### Daunting Presence
+### daunting presence
 
 Use this to follow up with a curse. Shaken characters get a penalty to their saving throws.
 
-### <blue>Dreadful Wrath</blue>
+### <blue>dreadful wrath</blue>
 
 Awesome feat. Create an aura of fear each time you cast a spell, full-attack or charge. Charisma based difficulty class. It is regional so it can only be taken at first level.
 
-### Practiced Spellcaster
+### practiced spellcaster
 
 Gives you a caster level boost. Very nice feat to have.
 
-### <blue>Imperious Command</blue>
+### <blue>imperious command</blue>
 
 Imperious command is an absolute must for hexblades, making people you demoralize cower the first round and shaken the next.
 
-### Extra Spell
+### extra spell
 
 In case you need a bonus spell known, this is a quick way to get it. Remember though that your feat selection is limited.
 
-### <blue>Minor Shapeshift</blue>
+### <blue>minor shapeshift</blue>
 
 Might mode provides a bit of damage. Mobility gives you a bonus on useful skills that are not on your list. Speed mode can be helpful in many situations and also boost your dark companion's speed. Last but not least vigor is just perfect. Moreover most of your abilities are free actions, so your swift action can be used each turn.
 
-### Combat Expertise
+### combat expertise
 
 This feat can be used in conjunction with debuffing and cursing an opponent. Reduced armor class means that you can take a small attack penalty and still be able to hit an opponent, while he has a penalty to attack from curse and bonus armor from this feat to overcome.
 
-### Improved Trip/Disarm
+### improved trip/disarm
 
 Again best used with hex. You will have a +4 bonus to the check while your opponent has a penalty.
 
-### <blue>Power Attack</blue>
+### <blue>power attack</blue>
 
 As with combat expertise, you can take a hit to attack that you can handle (due to target's reduced armor class) and transform it to damage. If using a two handed weapon it is translated into double power attack damage.
 
-### Combat Brute
+### combat brute
 
 Gives you notable maneuvers and most importantly momentum swing. If you are taking attack penalty equal to your target's armor class penalty from your curse, you get 3:1 returns to damage without hurting your attack.
 
-### Leap Attack
+### leap attack
 
 Another multiplier for power attack damage on charge.
 
-### Brutal Strike
+### brutal strike
 
 This feat can be used in two ways. First, pre-hex, to debuff a target so that you then curse him and after the hex to capitalize curse effects and take advantage of the lessened armor class (bigger difficulty class for this feat's effect).
 
-### Netherese Battle Curse
+### netherese battle curse
 
 Expend a slot and gain a bonus to attack and a charisma based debuff effect. This is not as good as Brutal strike, but it has lower requirements and serves better if you have a high charisma.
 
-### <navy>Leadership</navy>
+### <navy>leadership</navy>
 
 Your charisma is already high and you have lots of diplomatic skills. Hexblades can be great leaders.
 
-### <navy>Improved Familiar</navy>
+### <navy>improved familiar</navy>
 
 There are lots of useful choices to this and your familiar's abilities are already powerful compared to that of spellcasters. The best known choice is the imp familiar. You can find more information on the imp and their uses later in the guide. Other good options include Howlers and Winter Wolves, which you can also ride. Salt mephits are excellent in combat and they also have glitterdust 1/hour and a debuffing breath weapon which lowers AC and attack rolls, great if you want to capitalize power attack damage, both for you and your familiar.
 
-### <blue>Obtain Familiar</blue>
+### <blue>obtain familiar</blue>
 
 This is a way to gain both a familiar and dark companion.
 
-### Shadow Weave Magic
+### shadow weave magic
 
 Only if your patron deity is Shar. This feat benefits illusion, enchantment and necromancy spells, while making your evocations and transmutations worse by one caster level. You really care about transmutations basicaly, but it's not that bad actually. This feat is mentioned because you can one level dip into shadow adept, at any level after 11th as a hexblade, which will grant you three feats for free that make your spells more difficult to dispel, grant you a fat (+4) bonus to defeat the spell resistance and a chance to resist divinations casted on you, all bonuses against a weave user. Plus, it's thematically an awesome prestige class for a hexblade.
 
-### Master of Poisons
+### master of poisons
 
 You can use this feat to coat your weapon in poison as a swift action, without risking to poison yourself while doing so. With lower saves, thanks to your curses and skills, poisons will have a greater chance to go through. However, the craft skill is cross-class for a hexblade and you'll have to use either purchased or crafted-by-a-teammate poisons. If you have a poison crafter in the team, this would be a nice addition. Here you can find a guide on poisons by Akalsaris!
 
-## Feats to Avoid
+## feats to avoid
 
-### Arcane Strike
+### arcane strike
 
 Hexblades don't have the necessary amount of spells per day required to make this work. It is a poor choice.
 
-### Kiai Shout/Improved
+### kiai Shout/improved
 
 These are bad feats. They affect only creatures with less hit dice than you have and are usable limited times per day.
 
-### Arcane Disciple
+### arcane disciple
 
 Used to access spells not on your list. It is just bad due to your already tight spells known and your wisdom as a dump stat.
 
-### Extra Slot
+### extra slot
 
 Your spells aren't there to blast people but to augment your battle prowess and versatility. If you want more spells per day you are better off with items like rings of wizardy and cloak of charisma.
 
 
-# Skills
+# skills
 
-## Bluff
+## bluff
 
 You'll want at least 5 ranks in this one to get the synergy bonuses. Bluff gives synergy bonuses to 4 different skills. Hexblades being non good may want to act differently and be convincing.
 
-## <blue>Concentration</blue>
+## <blue>concentration</blue>
 
 If you plan casting in melee this is a must have.
 
-## <navy>Diplomacy</navy>
+## <navy>diplomacy</navy>
 
 This is the skill i would max out. Changing non player character attributes is very nice.
 
-## <navy>Intimidate</navy>
+## <navy>intimidate</navy>
 
 The first priority for a hexblade. While it has its social uses, it is the cheapest way to debuff an opponent so that you make sure that your curse will succeed.
 
-## Knowledge (arcana)
+## knowledge (arcana)
 
 I'd leave the knowledge skills to the spellcasters and skill-monkeys. However many feats have a rank requirement of this knowledge. Spent just one point in this skill and then forget about it.
 
-## Ride
+## ride
 
 I'd dump it unless i had mounted combat.
 
-## Spellcraft
+## spellcraft
 
 As with knowledge (arcana) don't get this far, but you may want to spend some ranks to qualify for a feat or two. Practiced spellcaster requires four ranks of spellcraft.
 
-## Tumble
+## tumble
 
 (through the alternative class feature skilled city dweller - replaces ride) Not worth to max out with hexblade, but moving without provoking attacks of opportunity is a nice way to get into strategical positions and getting away from danger. Get enough ranks to safely reach a tumble check of 15.
 
-## <blue>Use Magic Device</blue>
+## <blue>use magic device</blue>
 
 This is a cross-class skill for you, but you can spent a couple of skill points to be able to make a check. Hopefully your charisma will help to boost your check further.
 
 # skill tricks
 
-## <blue<Never Outnumbered</blue>
+## <blue>Never outnumbered</blue>
 
 Ideally use it when you want to curse multiple foes in a given round.
 
-## Timely Misdirection
+## timely misdirection
 
 Avoid attacks of opportunity.
 
-## Nimble Stand
+## nimble stand
 
 Stand up from prone without provoking attacks of opportunity.
-
 
 Spells
 

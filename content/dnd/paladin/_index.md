@@ -6,7 +6,7 @@ title: the paladin's handbook
 
 by Dimitris Raviolos
 
-# Introduction
+# introduction
 
 ## why paladin?
 

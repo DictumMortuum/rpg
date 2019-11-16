@@ -6,13 +6,13 @@ title: rpg aphorisms
 
 by Dimitris Raviolos
 
-# Index
+# index
 
 - [Advice for dungeon masters](#for-dungeon-masters)
 - [Advice for players](#for-players)
 - [Definitions](#definitions)
 
-# For Dungeon Masters
+# for dungeon masters
 
 - [For any conclusion you want the PCs to make, include at least three clues](#aphorism-1)
 - [Name your NPCs](#aphorism-2)
@@ -30,13 +30,13 @@ by Dimitris Raviolos
 - [Morphology of the Folktale](#aphorism-17)
 - [The archetypal characters](#aphorism-18)
 
-# For Players
+# for players
 
 - [Avoid creating intra-character conflict](#aphorism-5)
 - [Avoid 'My guy' syndrome](#aphorism-6)
 - [Be open to cooperation](#aphorism-15)
 
-## Aphorism 1
+## aphorism 1
 
 *For any conclusion you want the PCs to make, include at least three clues*
 
@@ -62,7 +62,7 @@ by Dimitris Raviolos
 
 > And even if you’re right, so what? Having extra clues isn’t going to cause any problems. Why not be safe rather than sorry?
 
-## Aphorism 2
+## aphorism 2
 
 *Name your NPCs*
 
@@ -70,7 +70,7 @@ by Dimitris Raviolos
 
 > Make a list, right now, of male and female names, maybe 10 of each, that you think are appropriate to your setting. Clip it to your GM screen or whatever. Any time you need a name for an NPC, just grab the next one on the list. The goal here is to be able to make up an NPC and instantly know their name. The players will go places and meet people you haven't thought of and if you can say, at the drop of a hat, "The guard's name is Fandrick," it will seem to your players that these NPCs are real people who really exist and you're not just making it all up.
 
-## Aphorism 3
+## aphorism 3
 
 *Throw obstacles at your PCs*
 
@@ -92,7 +92,7 @@ by Dimitris Raviolos
 
 > - Does the character need to be alone? Make sure she's surrounded by people.
 
-## Aphorism 4
+## aphorism 4
 
 *Appeal to all five of the senses*
 
@@ -100,7 +100,7 @@ by Dimitris Raviolos
 
 > Telling your players what their characters see around them is the bulk of what a DM does, but don’t forget to explain what their other senses are picking up as well. While you’re explaining the look of the buildings in the city that they just entered, maybe tell them how the city smells. If they’re in a vendor’s area, then you might explain the odour of spices and cooked meats floating through the air. If it’s a nasty side of town, then maybe the stink of urine is hanging about. If they’re creeping through a dank, dungeon hallway, then perhaps they can hear the echoed dripping of water coming from the shadows all around them. If a character wears gloves and the weather is warm, describe the sweaty feeling of the damp leather on his hands. Taped to the inside of my DM screen is a piece of paper that says “sight, smell, taste, touch, sound“. I keep it there to remind me to use whatever senses best fit the description. However, remember to keep you descriptions detailed, but short. Which reminds me…
 
-## Aphorism 5
+## aphorism 5
 
 *Avoid creating intra-character conflict*
 
@@ -108,7 +108,7 @@ by Dimitris Raviolos
 
 > Here's another example: In a campaign I DM'd, the party's bard lifted a magical sword behind the back of the party's Lawful Good monk. The monk had basically decided that the bodies of several fallen knights would be buried without looting, and rather than argue, the bard just grabbed the sword. The bad news was, the sword was cursed; it was the blade that had belonged to a ghost that roamed the castle, and whenever the bard drew it, the ghost materialized and attacked him (and only him). Eventually, the bard 'fessed up that he had stolen the sword. The monk (and the monk's player) became furious, and declared that he could no longer travel with the bard. Either the bard had to leave, or he would. It became a huge argument between characters and players, and it was entirely unnecessary. The monk did not have to react with an ultimatum; the monk did not even have to be angry, no matter what his alignment was. The bard had already suffered the misfortune of having his Charisma drained by the ghost repeatedly; the monk could have chosen (for example) to lecture the bard on how his theft had brought him nothing but misery. He chose to create player conflict when it was just as easy to not.
 
-## Aphorism 6
+## aphorism 6
 
 *Avoid 'my guy' syndrome*
 
@@ -116,7 +116,7 @@ by Dimitris Raviolos
 
 > "My Guy" syndrome is when — often unwittingly — you disclaim decision-making power and responsibility by acting like "what my character would do" is inevitable and inviolable, even if it gets in the way of actually having fun in the game or being able to play the game at all.
 
-## Aphorism 7
+## aphorism 7
 
 *Your stories should have a beginning, a middle and an end*
 
@@ -124,7 +124,7 @@ by Dimitris Raviolos
 
 > Aristotle stated that the tragedy should imitate a whole action, which means that the events follow each other by probability or necessity, and that the causal chain has a beginning and an end. There is a knot, a central problem that the protagonist must face. The play has two parts: complication and unravelling. During complication, the protagonist finds trouble as the knot is revealed or tied; during unraveling, the knot is resolved.
 
-## Aphorism 8
+## aphorism 8
 
 *Avoid breaking suspension of disbelief*
 
@@ -134,7 +134,7 @@ by Dimitris Raviolos
 
 > A common way of putting this is "You can ask an audience to believe the impossible, but not the improbable." For example, people will accept that the Grand Mage can teleport across the world, or that the spaceship has technology that makes it completely invisible without rendering its own sensors blind, but they won't accept that the ferocious carnivore just happened to have a heart attack and die right before it attacked the main character, or that the hacker guessed his enemy's password on the first try just by typing random letters, at least without some prior detail justifying it or one of the Rules listed below coming into play. What is in Real Life impossible just has to be made the norm in the setting and kept consistent.
 
-## Aphorism 9
+## aphorism 9
 
 *Build a cast of ready made NPCs*
 
@@ -146,7 +146,7 @@ by Dimitris Raviolos
 
 > Before you know it you'll have an assortment of NPCs who can fill all sorts of different roles in your game. If you need a random innkeeper, mayor or stable master take a look at your notes and see if you've built a profile to match. In most cases you will, and if you don't you can often adapt a profile by changing it to match what you need.
 
-## Aphorism 10
+## aphorism 10
 
 *Reuse NPCs when possible*
 
@@ -154,7 +154,7 @@ by Dimitris Raviolos
 
 > If your players sprinkled names or characters into their backstory, don’t let them fall to the wayside. Record their names and relationship, and refer back to them when it comes time to see who can help or hinder your group during a given task. As the players seek out shopkeepers, sources of information, or trainers over the course of the campaign, why create a new character when an existing NPC will do?
 
-## Aphorism 11
+## aphorism 11
 
 *Keep your players motivated*
 
@@ -162,7 +162,7 @@ by Dimitris Raviolos
 
 > Breathing life into a D&D player character is the player's job, but keeping the character motivated and relevant is something the DM and player hash out together. It's a little bit like developing a television character. In television, you hire an actor to become a character, and once an actor is comfortable wearing that character's skin, the character takes on a life of its own. However, when the character is being underserved or its purpose called into question, the actor will often turn to the show's writers for ideas. Working together, the writers and actor can find new and clever ways to tie the character into whatever else is happening in the show.
 
-## Aphorism 12
+## aphorism 12
 
 *Thou shalt not afflict players with thine own awe-inspiring characters*
 
@@ -174,7 +174,7 @@ by Dimitris Raviolos
 
 > Corollary to #1: Thou shalt not afflict players with awe inspiring omnipotent artifacts.  Never *ever* give the players that ever-so-cool magical item you created that has all those super powers and abilities and its intelligent and can kill deities in one stroke. Regardless of who you give it to, it is going to get hideously abused at some point. Give magic to match the characters.
 
-## Aphorism 13
+## aphorism 13
 
 *Thou shalt not place thy plot above player wishes*
 
@@ -186,7 +186,7 @@ by Dimitris Raviolos
 
 > The idea isn't that they don't HAVE free will, they do. They are just made aware of the risks involved in attempting it (and failing) are grave. They are quite free to make those 4 drive rolls you mention, and perhaps die in a fiery automobile crash, but it's up to them. Of course everyone knows that in REALITY they aren't going to do it.
 
-## Aphorism 14
+## aphorism 14
 
 *Thou shalt not display preferential treatment*
 
@@ -200,7 +200,7 @@ by Dimitris Raviolos
 
 > Corollary to the corollary:  Exercise extreme caution if the player's significant other is also in the party.....
 
-## Aphorism 15
+## aphorism 15
 
 *Be open to cooperation*
 
@@ -212,7 +212,7 @@ by Dimitris Raviolos
 
 > One of our regular Catalyst players, Jared, averts the Lone Wolf behavior well. The character of his that comes to mind is Dan, a gruff ex-soldier brimming with hate and frustration. Dan was stuck with two high school misfits (we made our characters independently…) and forced into the role of a competent leader. Rather than dismissing the obnoxious children around him, Jared decided to endow his character with parental instinct. No one else could whip Aiden and Bryawn into shape, so Dan reluctantly took them under his wing. Despite the repeated insults and death threats, he cared about them.
 
-## Aphorism 16
+## aphorism 16
 
 *The seven basic plots ... plus two!*
 
@@ -284,7 +284,7 @@ by Dimitris Raviolos
 
 > The last of Booker's basic plots, Rebellion Against 'The One' concerns a hero who rebels against the all-powerful entity that controls the world until he is forced to surrender to that power. The hero is a solitary figure who initially feels the One is at fault and that he must preserve his independence or refusal to submit. Eventually, he is faced with the One's awesome power and submits, becoming part of the rest of the world again. In some versions, the One is portrayed as benevolent, as in the story of Job, while in others the reader is left convinced it is malevolent, as in 1984 or Brazil. These darker versions seem to be what make Booker less than keen on this basic plot. Though Booker doesn't mention it, a common variation is to have the hero refuse to submit and essentially win against the power of the One. In The Prisoner, the hero eventually earns the right to discover that the One is a twisted version of himself, after which he is set free. In The Matrix, Neo's resistance eventually leads to a better world. Another example is The Hunger Games series, where Katniss's continued rebellion eventually leads to the downfall of both the original tyrant and his potential successor, resulting in a freer world.
 
-## Aphorism 17
+## aphorism 17
 
 *Morphology of the Folktale*
 
@@ -354,7 +354,7 @@ by Dimitris Raviolos
 
 > 31. WEDDING: The hero marries and is rewarded or promoted by the family or community, typically ascending to a throne.
 
-## Aphorism 18
+## aphorism 18
 
 *The archetypal characters*
 
@@ -376,18 +376,18 @@ by Dimitris Raviolos
 
 > - the false hero
 
-# Definitions
+# definitions
 
 ![plot vs story](/img/plot.png)
 
-## Story
+## story
 
 A narrative or story is a report of connected events, real or imaginary, presented in a sequence of written or spoken words, or still or moving images, or both. [wikipedia](https://en.wikipedia.org/wiki/Narrative)
 
-## Plot
+## plot
 
 Plot refers to the sequence of events inside a story which affect other events through the principle of cause and effect. The causal events of a plot can be thought of as a series of sentences linked by "and so". Plots can vary from simple structures such as in a traditional ballad to complex interwoven structures sometimes referred to as an imbroglio. [wikipedia](https://en.wikipedia.org/wiki/Plot_(narrative))
 
-## Suspension of disbelief
+## suspension of disbelief
 
 The term suspension of disbelief or willing suspension of disbelief has been defined as a willingness to suspend one's critical faculties and believe something surreal; sacrifice of realism and logic for the sake of enjoyment. [wikipedia](https://en.wikipedia.org/wiki/Suspension_of_disbelief)
