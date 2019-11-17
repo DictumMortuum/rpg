@@ -15,3 +15,7 @@ bookToc: false
 - war party
 - diablerists
 - sabbat inquisitors
+- nomads
+- archons
+- political guys
+- inconnu
